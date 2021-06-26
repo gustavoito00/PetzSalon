@@ -17,7 +17,7 @@ PetzSalon é uma pequena página desenvolvido com orientação do Prof. Mayk Bri
 ## Layout web
 ![Web 1](https://github.com/gustavoito00/ativos/blob/main/PestzSalon%20(1).gif)
 
-![Web 2](https://)
+![Web 2]()
 
 
 # Tecnologias utilizadas
